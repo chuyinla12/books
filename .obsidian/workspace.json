@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "39f93e571490e714",
+    "type": "split",
+    "children": [
+      {
+        "id": "7843b277834b67b7",
+        "type": "tabs",
+        "dimension": 65.14423076923077,
+        "children": [
+          {
+            "id": "49141bae06f18b73",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "历史/历史深处的民国/江城 历史深处的民国.pdf",
+                "page": 14,
+                "left": 50,
+                "top": 628,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "江城 历史深处的民国"
+            }
+          }
+        ]
+      },
+      {
+        "id": "33d570ea87fbee21",
+        "type": "tabs",
+        "dimension": 34.855769230769226,
+        "children": [
+          {
+            "id": "48b24e2c3a6f9012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/历史深处的民国/历史深处的民国.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "历史深处的民国"
+            }
+          },
+          {
+            "id": "cec32a8f850b4214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/历史深处的民国/历史人物/袁世凯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "袁世凯"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29636cdd351b5af1",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b771c1726cb36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd8c78df34451ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6d6eae8f96e3f88a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "72f333e5ba72fa0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7c190cfabe188f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c1a861dacdb050e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b8c28cd3784d737",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "哲学/中国哲学简史/中国哲学简史.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "中国哲学简史 的反向链接列表"
+            }
+          },
+          {
+            "id": "76c055f8ddd726d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "哲学/中国哲学简史/中国哲学简史.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "中国哲学简史 的出链列表"
+            }
+          },
+          {
+            "id": "b5df2ab2fe39658d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cb46a57ac3a3e8a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "历史/中国历代政治得失/中国历代政治得失.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "中国历代政治得失 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "48b24e2c3a6f9012",
+  "lastOpenFiles": [
+    "历史/历史深处的民国/历史人物/袁世凯.md",
+    "历史/历史深处的民国/江城 历史深处的民国.pdf",
+    "历史/历史深处的民国/历史深处的民国.md",
+    "历史/历史深处的民国/历史人物",
+    "哲学/儒/易经/时空能量/时空能量.md",
+    "历史/大事年表/大事年表.md",
+    "历史/历史深处的民国",
+    "哲学/儒/易经/时空能量/时空能量.pdf",
+    "文学/1 现代汉语/黄伯荣 廖序东 现代汉语 下册.pdf",
+    "哲学/儒/易经/时空能量",
+    "文学/1 现代汉语/黄伯荣 廖序东 现代汉语 上册.pdf",
+    "文学/2 中国现代文学史/中国现代文学史 1915-2016 上册.pdf",
+    "文学/5 文学理论/勒内·韦勒克 奥斯汀·沃伦 文学理论.pdf",
+    "文学/3 古代汉语/王力 古代汉语.pdf",
+    "文学/中国文学史/中国文学史.md",
+    "历史/中国历代政治得失/中国历代政治得失.md",
+    "历史/中国历代政治得失/图片/Pasted image 20251020221205.png",
+    "历史/文革/艾跃进讲文革/笔记.md",
+    "社科/城乡中国/城乡中国.md",
+    "社科/以利为利/以利为利.md",
+    "哲学/中国哲学简史/笔记.md",
+    "哲学/中国哲学简史/笔记/中国哲学简史.md",
+    "哲学/中国哲学简史/笔记/佛.md",
+    "哲学/中国哲学简史/笔记/道.md",
+    "哲学/中国哲学简史/笔记/儒.md",
+    "文学/刘震云/一日三秋.md",
+    "哲学/中国哲学简史/笔记/墨.md",
+    "阴阳.md",
+    "哲学/中国哲学简史/笔记/阴阳.md",
+    "哲学/中国哲学简史/笔记/法.md",
+    "哲学/中国哲学简史/笔记/名.md",
+    "社科/城乡中国/论据/政社合一.md",
+    "社科/城乡中国/论据/中国古代重农抑商原因.md",
+    "README.md",
+    "社科/以利为利/图片/人民银行　银监会 关于进一步加强信贷结构调整 促进国民经济平稳较快发展的指导意见.png",
+    "社科/以利为利/论据/大行政区财政.md",
+    "社科/以利为利/论据/贷款.md",
+    "社科/以利为利/图片/Pasted image 20250830014238.png",
+    "社科/以利为利/图片/Pasted image 20250830012201.png",
+    "社科/以利为利/图片/Pasted image 20250830013341.png",
+    "社科/以利为利/图片/Pasted image 20250830011719.png",
+    "Pasted image 20250829011825.png",
+    "未命名.canvas"
+  ]
+}
