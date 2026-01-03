@@ -14,7 +14,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "历史/历史深处的民国/江城 历史深处的民国.pdf"
+                "file": "历史/历史深处的民国/江城 历史深处的民国.pdf",
+                "page": 357,
+                "left": -12,
+                "top": 787,
+                "zoom": 1.2169117647058822
               },
               "icon": "lucide-file-text",
               "title": "江城 历史深处的民国"
@@ -98,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c190cfabe188f45",
