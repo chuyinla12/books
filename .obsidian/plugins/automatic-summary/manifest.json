@@ -1,0 +1,11 @@
+{
+	"id": "automatic-summary",
+	"name": "Automatic Summary",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically copy selected text and provide AI-powered summarization.",
+	"author": "Your Name",
+	"authorUrl": "https://github.com/yourusername",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
