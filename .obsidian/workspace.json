@@ -6,7 +6,7 @@
       {
         "id": "082da613b0391ea0",
         "type": "tabs",
-        "dimension": 71.39423076923077,
+        "dimension": 61.44578313253012,
         "children": [
           {
             "id": "fe3f95bac51bd531",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "历史/历史深处的民国/江城 历史深处的民国.pdf",
-                "page": 357,
-                "left": -12,
-                "top": 787,
-                "zoom": 1.2169117647058822
+                "page": 411,
+                "left": -13,
+                "top": 678,
+                "zoom": 1.1887254901960784
               },
               "icon": "lucide-file-text",
               "title": "江城 历史深处的民国"
@@ -27,22 +27,22 @@
         ]
       },
       {
-        "id": "11f414c3b798bdba",
+        "id": "e270cb030d1b4092",
         "type": "tabs",
-        "dimension": 28.60576923076923,
+        "dimension": 38.55421686746988,
         "children": [
           {
-            "id": "e93f0c9d629f5852",
+            "id": "52728f8a23af4a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/历史深处的民国/晚清.md",
+                "file": "历史/历史深处的民国/共和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "晚清"
+              "title": "共和"
             }
           }
         ]
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/历史深处的民国/晚清.md",
+                "file": "历史/历史深处的民国/共和.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "晚清 的大纲"
+              "title": "共和 的大纲"
             }
           }
         ],
@@ -197,10 +198,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e93f0c9d629f5852",
+  "active": "52728f8a23af4a6b",
   "lastOpenFiles": [
     "历史/历史深处的民国/江城 历史深处的民国.pdf",
+    "历史/历史深处的民国/共和.md",
     "历史/历史深处的民国/晚清.md",
+    "陈其美.md",
+    "黎元洪.md",
     "历史/历史人物/张之洞.md",
     "历史/历史人物/蒋介石.md",
     "哲学/中国哲学简史/冯友兰 中国哲学简史.pdf",
@@ -232,9 +236,6 @@
     "哲学/中国哲学简史/笔记/佛.md",
     "哲学/中国哲学简史/笔记/道.md",
     "哲学/中国哲学简史/笔记/儒.md",
-    "文学/刘震云/一日三秋.md",
-    "哲学/中国哲学简史/笔记/墨.md",
-    "阴阳.md",
     "社科/以利为利/图片/人民银行　银监会 关于进一步加强信贷结构调整 促进国民经济平稳较快发展的指导意见.png",
     "社科/以利为利/图片/Pasted image 20250830014238.png",
     "社科/以利为利/图片/Pasted image 20250830012201.png",
