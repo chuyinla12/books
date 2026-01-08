@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "253d8106db657e34",
+        "id": "05906d44e54880a7",
         "type": "tabs",
         "children": [
           {
-            "id": "42cbd3c2f1d8aba5",
+            "id": "b4c0a841def1ba94",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "pdf",
               "state": {
-                "file": "哲学/南怀瑾/南怀瑾著作全收录.epub"
+                "file": "历史/民国/历史深处的民国/江城 历史深处的民国.pdf",
+                "page": 768,
+                "left": -11,
+                "top": 749,
+                "zoom": 1.4203431372549022
               },
-              "icon": "doc-epub",
-              "title": "南怀瑾著作全收录"
+              "icon": "lucide-file-text",
+              "title": "江城 历史深处的民国"
             }
           }
         ]
@@ -140,22 +144,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/历史深处的民国/笔记/北洋称雄.md",
+                "file": "历史/民国/历史深处的民国/江城 历史深处的民国.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "北洋称雄 的大纲"
+              "title": "江城 历史深处的民国 的大纲"
+            }
+          },
+          {
+            "id": "5b3cd3e0a2cbca16",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,48 +181,50 @@
       "command-palette:打开命令面板": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abd8c78df34451ab",
+  "active": "b4c0a841def1ba94",
   "lastOpenFiles": [
-    "哲学/南怀瑾",
+    "历史/考试制度/考试制度.md",
+    "历史/民国/历史深处的民国/笔记/蒋记王朝.md",
+    "历史/民国/历史深处的民国/江城 历史深处的民国.pdf",
+    "历史/民国/历史深处的民国/笔记/走向共和.md",
+    "哲学/中国哲学简史/笔记.md",
+    "哲学/中国哲学简史/笔记/中国哲学简史.md",
+    "哲学/中国哲学简史/冯友兰 中国哲学简史.pdf",
     "哲学/南怀瑾/南怀瑾著作全收录.md",
+    "历史/中国历代政治得失/中国历代政治得失.md",
+    "历史/中国历代政治得失/钱穆 中国历代政治得失 .pdf",
+    "历史/新中国/文革/北大马会 文革史.pdf",
+    "历史/中国历代政治得失/图片/Pasted image 20251020221205.png",
+    "哲学/南怀瑾/易经杂说.md",
     "哲学/南怀瑾/南怀瑾著作全收录.epub",
+    "历史/民国/历史深处的民国/笔记/北洋称雄.md",
+    "历史/民国",
+    "哲学/南怀瑾",
     "历史/新中国/改革开放/天安门.md",
     "哲学/南怀瑾著作全收录 (南怀瑾) (Z-Library).pdf",
-    "历史/新中国/文革/北大马会 文革史.pdf",
     "历史/新中国/新时代",
     "历史/新中国/改革开放",
-    "历史/历史深处的民国/笔记/北洋称雄.md",
-    "历史/新中国/文革",
-    "历史/历史深处的民国/江城 历史深处的民国.pdf",
     "历史/历史人物/民国/张静江.md",
-    "历史/历史深处的民国/笔记/共和.md",
     "历史/新中国/新时代/白纸革命.md",
-    "历史/新中国",
     "历史/历史人物/民国/孙中山.md",
     "历史/历史人物/民国/蒋介石.md",
-    "历史/历史人物/清朝",
-    "历史/历史人物/民国",
     "历史/历史人物/民国/蔡锷.md",
     "历史/历史人物/民国/张作霖.md",
     "历史/历史人物/宋教仁.md",
-    "历史/历史深处的民国/笔记/晚清.md",
+    "历史/民国/历史深处的民国/笔记/晚清.md",
     "历史/历史人物/民国/陈其美.md",
     "历史/历史人物/民国/黎元洪.md",
     "历史/历史人物/清朝/张之洞.md",
-    "哲学/中国哲学简史/笔记.md",
     "历史/历史人物/清朝/洪秀全.md",
     "历史/历史人物/清朝/曾国藩.md",
     "历史/清/清朝年表.md",
     "历史/清/辛酉政变.md",
     "历史/历史深处的民国/历史人物/袁世凯.md",
-    "历史/历史深处的民国/历史深处的民国.md",
-    "哲学/儒/易经/时空能量/时空能量.md",
-    "历史/大事年表/大事年表.md",
-    "文学/中国文学史/中国文学史.md",
-    "历史/中国历代政治得失/图片/Pasted image 20251020221205.png",
     "社科/以利为利/图片/人民银行　银监会 关于进一步加强信贷结构调整 促进国民经济平稳较快发展的指导意见.png",
     "社科/以利为利/图片/Pasted image 20250830014238.png",
     "社科/以利为利/图片/Pasted image 20250830012201.png",
