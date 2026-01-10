@@ -6,7 +6,7 @@
       {
         "id": "bbabf7a08ac7b988",
         "type": "tabs",
-        "dimension": 54.987980769230774,
+        "dimension": 56.61057692307693,
         "children": [
           {
             "id": "d8b7608aab1544d2",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "历史/民国/历史深处的民国/江城 历史深处的民国.pdf",
-                "page": 822,
+                "page": 838,
                 "left": -17,
-                "top": 45,
-                "zoom": 0.8872549019607845
+                "top": 229,
+                "zoom": 0.9154411764705882
               },
               "icon": "lucide-file-text",
               "title": "江城 历史深处的民国"
@@ -29,7 +29,7 @@
       {
         "id": "05906d44e54880a7",
         "type": "tabs",
-        "dimension": 45.012019230769226,
+        "dimension": 43.38942307692307,
         "children": [
           {
             "id": "b4c0a841def1ba94",
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4c0a841def1ba94",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
     "历史/民国/历史深处的民国/江城 历史深处的民国.pdf",
     "历史/民国/历史深处的民国/笔记/蒋记王朝.md",
