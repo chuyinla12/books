@@ -6,7 +6,7 @@
       {
         "id": "972590ec3a1f98c6",
         "type": "tabs",
-        "dimension": 60.817307692307686,
+        "dimension": 61.11778846153846,
         "children": [
           {
             "id": "286c8197c6855eea",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "历史/民国/历史深处的民国/江城 历史深处的民国.pdf",
-                "page": 1071,
+                "page": 1197,
                 "left": -15,
-                "top": 173,
-                "zoom": 0.9877450980392158
+                "top": 23,
+                "zoom": 0.9926470588235294
               },
               "icon": "lucide-file-text",
               "title": "江城 历史深处的民国"
@@ -29,7 +29,7 @@
       {
         "id": "670420bbfd6f10fd",
         "type": "tabs",
-        "dimension": 39.18269230769231,
+        "dimension": 38.88221153846153,
         "children": [
           {
             "id": "8f0818eb6ad724e9",
