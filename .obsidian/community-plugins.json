@@ -1,7 +1,7 @@
 [
   "highlightr-plugin",
   "obsidian-annotator",
-  "pdf-plus",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "pdf-plus"
 ]
