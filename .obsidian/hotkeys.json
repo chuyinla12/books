@@ -30,5 +30,21 @@
       ],
       "key": "M"
     }
+  ],
+  "timelines-revamped:insert-timeline-event": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "timelines-revamped:insert-timeline-event-frontmatter": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }
