@@ -1,0 +1,159 @@
+
+/* Reset & Base Container */
+.timeline {
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+    overflow: hidden; /* Clear floats */
+}
+
+/* The Central Axis Line */
+.timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 4px;
+    background: var(--background-modifier-border);
+    transform: translateX(-50%);
+    border-radius: 2px;
+}
+
+/* Common Item Styles */
+.timeline-item {
+    position: relative;
+    width: 42%; /* Reduced width to leave more space in center */
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+/* --- Period (Left Side) --- */
+.timeline-item.type-period {
+    float: left;
+    clear: left; /* Ensure periods stack vertically on the left */
+    text-align: right;
+    padding-right: 40px; /* More space for dot */
+}
+
+/* Period Card Style */
+.timeline-item.type-period .period-card {
+    background-color: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    padding: 12px 15px; /* Slightly more compact padding */
+    border-right: 4px solid var(--interactive-accent); /* Accent on the axis side */
+    border-left: none; /* Remove left border */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: inline-block; /* Wrap content closely */
+    width: 100%;
+    text-align: left; /* Text inside card back to left aligned for readability */
+}
+
+/* Period Time Label */
+.timeline-item.type-period .time {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: var(--text-normal);
+    opacity: 0.8;
+}
+
+/* Period Dot (on Axis) */
+.timeline-item.type-period::after {
+    content: '';
+    position: absolute;
+    top: 20px; /* Align with top of card roughly */
+    /* Calculation for center alignment:
+       Item width = 42%. Center line at 50%.
+       Distance from item right edge to center = 8%.
+       Dot should be centered at 50%.
+       right = - (8% of parent width) / (42% of parent width) * 100% ? No.
+       CSS percentage on right is relative to element width.
+       Distance in % of item width = (8 / 42) * 100% ≈ 19.05%
+       Let's use calc based on parent logic if possible, but we can't easily.
+       Alternative: Use fixed pixel gap if width was fixed, but it's %.
+       Approximation: -19% - 6px (half dot).
+    */
+    right: calc(-19.05% - 6px); 
+    width: 12px;
+    height: 12px;
+    background: var(--interactive-accent);
+    border: 2px solid var(--background-primary);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+/* --- Event (Right Side) --- */
+.timeline-item.type-event,
+.timeline-item.type-point,
+.timeline-item.type-marker {
+    float: right;
+    clear: right; /* Ensure events stack vertically on the right */
+    text-align: left;
+    padding-left: 40px; /* Space for dot */
+    margin-top: 0; /* JS handles margin-top for time gap now */
+}
+
+/* Standard Event Content */
+.timeline-item.type-event .title {
+    font-weight: bold;
+    font-size: 1.05em;
+    margin-bottom: 4px;
+}
+
+.timeline-item.type-event .description {
+    color: var(--text-muted);
+    font-size: 0.95em;
+}
+
+/* Event Time Label */
+.timeline-item.type-event .time {
+    display: block;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+}
+
+/* Event Dot (on Axis) */
+.timeline-item.type-event::after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: calc(-19.05% - 6px); /* Mirrored from period */
+    width: 10px;
+    height: 10px;
+    background: var(--text-normal);
+    border: 2px solid var(--background-primary);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+/* Responsive Mobile Layout */
+@media (max-width: 600px) {
+    .timeline::before {
+        left: 20px;
+    }
+    .timeline-item {
+        width: 100%;
+        float: none;
+        clear: both;
+        padding-left: 40px;
+        padding-right: 0;
+        text-align: left;
+        margin-top: 20px !important; /* Reset dynamic margin for mobile */
+    }
+    .timeline-item.type-period {
+        text-align: left;
+    }
+    .timeline-item.type-period .period-card {
+        border-right: none;
+        border-left: 4px solid var(--interactive-accent);
+    }
+    .timeline-item.type-period::after,
+    .timeline-item.type-event::after {
+        left: 14px; /* Adjust for new line position */
+        right: auto;
+    }
+}

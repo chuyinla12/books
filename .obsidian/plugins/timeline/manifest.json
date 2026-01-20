@@ -1,0 +1,9 @@
+{
+	"id": "timeline",
+	"name": "Timeline",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "一个支持双侧布局的垂直时间轴插件，左侧展示时期，右侧展示事件。",
+	"author": "La",
+	"isDesktopOnly": false
+}
