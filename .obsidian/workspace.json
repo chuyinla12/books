@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
-                "page": 100,
-                "left": 12,
-                "top": 469,
+                "page": 107,
+                "left": -4,
+                "top": 668,
                 "zoom": 1.6
               },
               "icon": "lucide-file-text",
@@ -240,16 +240,16 @@
         "y": 57,
         "width": 1025,
         "height": 801,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e9f1aebffe639195",
+  "active": "39b6fc39a632c2a3",
   "lastOpenFiles": [
-    "历史/大事年表/大事年表.md",
     "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
+    "历史/大事年表/大事年表.md",
     "Pasted image 20260120211359.png",
     "社科/以利为利/以利为利.md",
     "社科/以利为利/论据/大行政区财政.md",
