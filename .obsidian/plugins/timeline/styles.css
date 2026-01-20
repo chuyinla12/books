@@ -5,174 +5,182 @@
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px 0;
-    overflow: hidden; /* Clear floats */
+    overflow: visible; /* Allow bars to extend */
 }
 
-/* The Central Axis Line */
+/* The Central Axis Line (Shifted to Right Side) */
 .timeline::before {
     content: '';
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 50%;
+    left: 60%; /* Asymmetric Layout: Axis at 60% (center-right) */
     width: 4px;
     background: var(--background-modifier-border);
-    transform: translateX(-50%);
     border-radius: 2px;
 }
 
-/* Common Item Styles */
-.timeline-item {
-    position: relative;
-    width: 42%; /* Reduced width to leave more space in center */
-    margin-bottom: 20px;
-    box-sizing: border-box;
-}
-
-/* --- Period (Left Side) --- */
+/* --- Period Item (Left Side) --- */
 .timeline-item.type-period {
-    float: left;
-    clear: left; /* Ensure periods stack vertically on the left */
-    text-align: right;
-    padding-right: 40px; /* More space for dot */
+    position: relative;
+    width: 60%; /* Occupy left side (0-60%) */
+    padding-right: 60px; /* Space for lanes */
+    text-align: right; /* Align text to axis */
+    margin-left: 0;
+    margin-right: auto;
+    clear: left;
+    float: left; /* Ensure it stays on left */
+    box-sizing: border-box;
+    overflow: visible; 
 }
 
-/* Period Card Style */
-.timeline-item.type-period .period-card {
-    background-color: var(--background-secondary);
-    border: 1px solid var(--background-modifier-border);
-    border-radius: 8px;
-    padding: 12px 15px; /* Slightly more compact padding */
-    border-right: 4px solid var(--interactive-accent); /* Accent on the axis side */
-    border-left: none; /* Remove left border */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    display: inline-block; /* Wrap content closely */
-    width: 100%;
-    text-align: left; /* Text inside card back to left aligned for readability */
-}
-
-/* Period Time Label */
-.timeline-item.type-period .time {
+/* Period Content Wrapper */
+.timeline-item.type-period .timeline-content {
     display: block;
-    font-weight: bold;
-    margin-bottom: 5px;
-    color: var(--text-normal);
-    opacity: 0.8;
 }
 
-/* Period Dot (on Axis) */
-.timeline-item.type-period::after {
+/* Period Bar (Absolute on Left Side of Axis) */
+.period-bar {
+    position: absolute;
+    /* width/opacity/right handled by JS */
+    border-radius: 4px;
+    background-color: var(--interactive-accent);
+    top: 5px; /* Align with top of text approx */
+    z-index: 0; /* Behind event dots but visible */
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+/* Dynamic Period Connector (JS creates this div) */
+.period-connector {
+    position: absolute;
+    top: 15px; /* Mid-text height */
+    height: 2px;
+    background: var(--background-modifier-border);
+    opacity: 0.4;
+    z-index: 0;
+    /* Right and Width set by JS */
+}
+
+/* Add a small dot at the end of connector (at the bar end) */
+.period-connector::after {
     content: '';
     position: absolute;
-    top: 20px; /* Align with top of card roughly */
-    right: calc(-19.05% - 6px); 
-    width: 12px;
-    height: 12px;
-    background: var(--interactive-accent);
-    border: 2px solid var(--background-primary);
+    right: -3px; /* Align slightly over the bar edge to connect visually */
+    top: -2px; /* Center relative to line height 2px */
+    width: 6px;
+    height: 6px;
     border-radius: 50%;
-    z-index: 1;
+    background: var(--background-modifier-border);
 }
 
-/* --- Event (Right Side) --- */
+/* Hide CSS-only connector if it exists */
+.timeline-item.type-period::before {
+    display: none;
+}
+
+/* --- Event Item (Right Side) --- */
 .timeline-item.type-event,
 .timeline-item.type-point,
 .timeline-item.type-marker {
-    float: right;
-    clear: right; /* Ensure events stack vertically on the right */
+    position: relative;
+    width: 35%; /* Occupy right side (60% + gap -> 100%) */
+    margin-left: 65%; /* 60% axis + 5% gap */
     text-align: left;
-    padding-left: 40px; /* Space for dot */
-    margin-top: 0; /* JS handles margin-top for time gap now */
-}
-
-/* Standard Event Content */
-.timeline-item.type-event .title {
-    font-weight: bold;
-    font-size: 1.05em;
-    margin-bottom: 4px;
-}
-
-.timeline-item.type-event .description {
-    color: var(--text-muted);
-    font-size: 0.95em;
-}
-
-/* Event Time Label */
-.timeline-item.type-event .time {
-    display: block;
-    font-size: 0.85em;
-    color: var(--text-muted);
-    margin-bottom: 4px;
-}
-
-/* Event Dot (on Axis) */
-.timeline-item.type-event::after {
-    content: '';
-    position: absolute;
-    top: 8px; /* Slightly adjust to align with text baseline or connector */
-    left: calc(-19.05% - 6px); /* Mirrored from period */
-    width: 10px;
-    height: 10px;
-    background: var(--text-normal);
-    border: 2px solid var(--background-primary);
-    border-radius: 50%;
-    z-index: 1;
+    clear: right;
+    float: right; /* Ensure it stays on right */
+    box-sizing: border-box;
 }
 
 /* Event Connector Line */
 .timeline-item.type-event::before {
     content: '';
     position: absolute;
-    top: 12px; /* Center vertically with the dot (dot top is 8px + 5px radius = 13px center) */
-    left: calc(-19.05% + 4px); /* Start from right of the dot */
-    width: calc(19.05% + 30px); /* Span across the gap to the content */
-    /* 
-       Gap logic: 
-       Item padding-left is 40px. 
-       Dot is at ~ -19% - 6px.
-       We want line from Dot to Content (0px).
-       Left should be at dot center approx.
-       Let's simplify:
-       Line starts at dot: left: -19.05%.
-       Line ends at 0 (content start).
-       Width: 19.05%.
-    */
-    left: -19.05%;
-    width: 19.05%;
+    top: 15px;
+    left: -20px; /* From content edge towards axis */
+    width: 20px;
     height: 2px;
     background: var(--background-modifier-border);
     opacity: 0.5;
-    z-index: 0;
 }
 
-/* Responsive Mobile Layout */
+/* Event Dot on Axis */
+.timeline-item.type-event::after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    /* 
+       Axis is at 60% of parent.
+       Item margin-left is 65%.
+       Distance from item left edge to axis = 5% of parent.
+       Item width is 35% of parent.
+       So distance relative to item width is (5 / 35) * 100% = 14.28%
+       left: -14.3%.
+    */
+    left: -14.3%; 
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--background-secondary);
+    border: 2px solid var(--text-normal); /* Event dot style */
+    z-index: 2;
+    transform: translateX(-50%); /* Center on axis */
+}
+
+/* --- Typography & Aesthetic --- */
+.timeline-item .time {
+    display: block;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--text-muted);
+    margin-bottom: 2px;
+    letter-spacing: 0.05em;
+}
+
+.timeline-item .title {
+    display: block;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: var(--text-normal);
+    line-height: 1.4;
+}
+
+.timeline-item .description {
+    font-size: 0.95em;
+    color: var(--text-faint);
+    margin-top: 4px;
+    line-height: 1.5;
+}
+
+/* Clean up float layout */
+.timeline::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive */
 @media (max-width: 600px) {
     .timeline::before {
         left: 20px;
     }
-    .timeline-item {
-        width: 100%;
+    .timeline-item.type-period,
+    .timeline-item.type-event {
+        width: calc(100% - 50px);
+        margin-left: 50px;
         float: none;
-        clear: both;
-        padding-left: 40px;
+        text-align: left;
         padding-right: 0;
-        text-align: left;
-        margin-top: 20px !important; /* Reset dynamic margin for mobile */
     }
-    .timeline-item.type-period {
-        text-align: left;
+    .period-bar {
+        right: auto !important; /* Override inline style */
+        left: -30px; /* Adjust for mobile left axis */
+        transform: none !important;
     }
-    .timeline-item.type-period .period-card {
-        border-right: none;
-        border-left: 4px solid var(--interactive-accent);
-    }
-    .timeline-item.type-period::after,
     .timeline-item.type-event::after {
-        left: 14px; /* Adjust for new line position */
-        right: auto;
+        left: -36px; /* Fixed pixel for mobile */
+        transform: none;
     }
-    /* Hide connector on mobile or adjust it? */
-    .timeline-item.type-event::before {
-        display: none; 
+    .period-connector {
+        display: none; /* Hide connector on mobile */
     }
 }
