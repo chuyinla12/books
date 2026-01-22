@@ -4,8 +4,32 @@
     "type": "split",
     "children": [
       {
+        "id": "30989a3a36cc6517",
+        "type": "tabs",
+        "dimension": 74.93990384615384,
+        "children": [
+          {
+            "id": "7125d827327251b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
+                "page": 221,
+                "left": 12,
+                "top": 812,
+                "zoom": 1.7
+              },
+              "icon": "lucide-file-text",
+              "title": "北大马会 文革史"
+            }
+          }
+        ]
+      },
+      {
         "id": "e15dbf919cddb5b1",
         "type": "tabs",
+        "dimension": 25.060096153846157,
         "children": [
           {
             "id": "12a44382c2db661a",
@@ -78,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -181,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "12a44382c2db661a",
   "lastOpenFiles": [
     "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
