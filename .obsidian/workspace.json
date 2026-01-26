@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
-                "page": 326,
+                "page": 340,
                 "left": -12,
-                "top": 378,
+                "top": 580,
                 "zoom": 1.2058971774193548
               },
               "icon": "lucide-file-text",
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
+                "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "北大马会文革史 的大纲"
+              "title": "北大马会 文革史 的大纲"
             }
           },
           {
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f36e4f83e0d8f66a",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
-    "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
+    "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/时间线梳理.md",
     "历史/新中国/文革/左派、右派、左翼、右翼、左倾、右倾概念.md",
     "历史/大事年表/大事年表.md",
