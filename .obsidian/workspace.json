@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
-                "page": 286,
-                "left": -4,
-                "top": 339,
-                "zoom": 1.6
+                "page": 294,
+                "left": -12,
+                "top": 127,
+                "zoom": 1.2058971774193548
               },
               "icon": "lucide-file-text",
               "title": "北大马会 文革史"
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "f36e4f83e0d8f66a",
   "lastOpenFiles": [
     "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
