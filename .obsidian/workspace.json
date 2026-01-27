@@ -4,8 +4,32 @@
     "type": "split",
     "children": [
       {
+        "id": "4d9e70d7830c480f",
+        "type": "tabs",
+        "dimension": 65.14423076923077,
+        "children": [
+          {
+            "id": "141b96c0c80c04e2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
+                "page": 374,
+                "left": -4,
+                "top": 175,
+                "zoom": 1.4
+              },
+              "icon": "lucide-file-text",
+              "title": "北大马会 文革史"
+            }
+          }
+        ]
+      },
+      {
         "id": "f89e0184cae8027a",
         "type": "tabs",
+        "dimension": 34.855769230769226,
         "children": [
           {
             "id": "27fecd5f34dd55f6",
@@ -13,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "哲学/南怀瑾/书目.md",
+                "file": "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "书目"
+              "title": "北大马会文革史"
             }
           }
         ]
@@ -78,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -183,14 +208,14 @@
   },
   "active": "27fecd5f34dd55f6",
   "lastOpenFiles": [
-    "哲学/南怀瑾/易经杂说.md",
-    "哲学/南怀瑾/书目.md",
-    "哲学/南怀瑾/Pasted image 20260126234813.png",
-    "哲学/南怀瑾/南怀瑾著作全收录.md",
-    "历史/新中国/文革/左派、右派、左翼、右翼、左倾、右倾概念.md",
     "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
     "历史/新中国/文革/北大马会文革史/时间线梳理.md",
+    "历史/新中国/文革/左派、右派、左翼、右翼、左倾、右倾概念.md",
+    "哲学/南怀瑾/书目.md",
+    "哲学/南怀瑾/易经杂说.md",
+    "哲学/南怀瑾/Pasted image 20260126234813.png",
+    "哲学/南怀瑾/南怀瑾著作全收录.md",
     "历史/大事年表/大事年表.md",
     "社科/以利为利/以利为利.md",
     "哲学/中国哲学简史/笔记/道.md",
