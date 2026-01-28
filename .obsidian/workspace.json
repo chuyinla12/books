@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9e70d7830c480f",
+        "id": "fd62cebbabb714ef",
         "type": "tabs",
-        "dimension": 65.14423076923077,
         "children": [
           {
-            "id": "141b96c0c80c04e2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
-                "page": 374,
-                "left": -4,
-                "top": 175,
-                "zoom": 1.4
-              },
-              "icon": "lucide-file-text",
-              "title": "北大马会 文革史"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f89e0184cae8027a",
-        "type": "tabs",
-        "dimension": 34.855769230769226,
-        "children": [
-          {
-            "id": "27fecd5f34dd55f6",
+            "id": "de0fde44c6f36408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
-                "mode": "source",
-                "source": false
+                "file": "历史/大事年表/大事年表.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "北大马会文革史"
+              "title": "大事年表"
             }
           }
         ]
@@ -206,17 +182,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27fecd5f34dd55f6",
+  "active": "de0fde44c6f36408",
   "lastOpenFiles": [
-    "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
-    "历史/新中国/文革/北大马会文革史/时间线梳理.md",
+    "历史/大事年表/大事年表.md",
     "历史/新中国/文革/左派、右派、左翼、右翼、左倾、右倾概念.md",
+    "社科/城乡中国/论据/地权变更.md",
+    "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
+    "历史/新中国/文革/北大马会文革史/时间线梳理.md",
     "哲学/南怀瑾/书目.md",
     "哲学/南怀瑾/易经杂说.md",
     "哲学/南怀瑾/Pasted image 20260126234813.png",
     "哲学/南怀瑾/南怀瑾著作全收录.md",
-    "历史/大事年表/大事年表.md",
     "社科/以利为利/以利为利.md",
     "哲学/中国哲学简史/笔记/道.md",
     "哲学/中国哲学简史/笔记.md",
@@ -229,7 +206,6 @@
     "manifest.json",
     "main.js",
     "未命名.base",
-    "社科/城乡中国/论据/地权变更.md",
     "未命名 1.base",
     "历史/新中国/新时代/白纸革命.md",
     "历史/新中国/文革/北大马会文革史",
