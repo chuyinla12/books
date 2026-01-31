@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "历史/大事年表/大事年表.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
+                "file": "历史/大事年表/大事年表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "北大马会文革史 的大纲"
+              "title": "大事年表 的大纲"
             }
           },
           {
@@ -182,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de0fde44c6f36408",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
     "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
     "历史/大事年表/大事年表.md",
+    "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/左派、右派、左翼、右翼、左倾、右倾概念.md",
     "社科/城乡中国/论据/地权变更.md",
-    "历史/新中国/文革/北大马会文革史/北大马会 文革史.pdf",
     "历史/新中国/文革/北大马会文革史/时间线梳理.md",
     "哲学/南怀瑾/书目.md",
     "哲学/南怀瑾/易经杂说.md",
