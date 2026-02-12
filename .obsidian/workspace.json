@@ -6,7 +6,7 @@
       {
         "id": "7a9376b422c75930",
         "type": "tabs",
-        "dimension": 59.19471153846154,
+        "dimension": 63.22115384615385,
         "children": [
           {
             "id": "0fd8e8775708afed",
@@ -15,25 +15,13 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/老子他说/南怀瑾 老子他说.pdf",
-                "page": 116,
-                "left": -9,
-                "top": 565,
-                "zoom": 1.703632053456675
+                "page": 157,
+                "left": -15,
+                "top": 412,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "南怀瑾 老子他说"
-            }
-          },
-          {
-            "id": "7da16827f4a2caca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "哲学/中国/道/老子他说/draw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "draw"
             }
           },
           {
@@ -50,13 +38,12 @@
               "title": "道德经"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "72742d3c7a905d03",
         "type": "tabs",
-        "dimension": 40.80528846153847,
+        "dimension": 36.77884615384615,
         "children": [
           {
             "id": "de55e2743f48b568",
@@ -233,12 +220,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7da16827f4a2caca",
+  "active": "de55e2743f48b568",
   "lastOpenFiles": [
-    "哲学/中国/道/老子他说/老子他说笔记.md",
     "哲学/中国/道/老子他说/南怀瑾 老子他说.pdf",
-    "哲学/中国/道/老子他说/draw.md",
+    "哲学/中国/道/老子他说/老子他说笔记.md",
     "哲学/中国/道/道德经/道德经.md",
+    "哲学/中国/道/老子他说/draw.md",
     "哲学/中国/道/道德经/图片/道德经 5.png",
     "Pasted image 20260211233531.png",
     "哲学/中国/道/道德经/图片/道德经 4.png",
