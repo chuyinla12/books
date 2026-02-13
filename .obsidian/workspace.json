@@ -4,59 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9376b422c75930",
+        "id": "26d78c7d8c8591e4",
         "type": "tabs",
-        "dimension": 63.22115384615385,
         "children": [
           {
-            "id": "0fd8e8775708afed",
+            "id": "7d260d0207500eb5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "哲学/中国/道/老子他说/南怀瑾 老子他说.pdf",
-                "page": 158,
-                "left": -10,
-                "top": 586,
-                "zoom": 1.5338166397680675
-              },
-              "icon": "lucide-file-text",
-              "title": "南怀瑾 老子他说"
-            }
-          },
-          {
-            "id": "a1f2842684e6d90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哲学/中国/道/道德经/道德经.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "道德经"
-            }
-          }
-        ]
-      },
-      {
-        "id": "72742d3c7a905d03",
-        "type": "tabs",
-        "dimension": 36.77884615384615,
-        "children": [
-          {
-            "id": "de55e2743f48b568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哲学/中国/道/老子他说/老子他说笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "老子他说笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -116,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -220,11 +177,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "de55e2743f48b568",
+  "active": "7d260d0207500eb5",
   "lastOpenFiles": [
     "哲学/中国/道/老子他说/南怀瑾 老子他说.pdf",
-    "哲学/中国/道/老子他说/老子他说笔记.md",
     "哲学/中国/道/道德经/道德经.md",
+    "哲学/哲学名词解释.md",
+    "哲学/中国/道/老子他说/老子他说笔记.md",
     "哲学/中国/道/老子他说/draw.md",
     "哲学/中国/道/道德经/图片/道德经 5.png",
     "Pasted image 20260211233531.png",
@@ -235,7 +193,6 @@
     "哲学/中国/道/道德经/图片",
     "哲学/中国/道/道德经/未命名.md",
     "哲学/中国/道/道德经/图片/道德经 2.png",
-    "哲学/哲学名词解释.md",
     "哲学/西方哲学顺序.md",
     "哲学/中国哲学顺序.md",
     "哲学/中国",
