@@ -17,8 +17,8 @@
                 "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
                 "page": 271,
                 "left": -13,
-                "top": 444,
-                "zoom": 1.1996637289614527
+                "top": 468,
+                "zoom": 1.199663728961453
               },
               "icon": "lucide-file-text",
               "title": "南怀瑾 老子他说 上"
@@ -206,8 +206,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "abd8c78df34451ab",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
+    "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
     "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
     "哲学/中国/道/老子他说/老子他说笔记.md",
     "哲学/中国/道/道德经/道德经.md",
