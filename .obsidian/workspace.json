@@ -15,8 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 2,
+                "left": -20,
+                "top": 468,
+                "zoom": 0.8051470588235293
               },
               "icon": "lucide-file-text",
               "title": "南怀瑾 老子他说 下"
@@ -35,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "哲学/中国/道/老子他说/老子他说笔记.md",
+                "file": "哲学/中国/道/老子他说/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "老子他说笔记"
+              "title": "未命名"
             }
           }
         ]
@@ -100,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -207,8 +208,9 @@
   },
   "active": "f02b261cd9f63726",
   "lastOpenFiles": [
-    "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
     "哲学/中国/道/老子他说/老子他说笔记.md",
+    "哲学/中国/道/老子他说/未命名.md",
+    "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
     "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
     "哲学/中国/道/道德经/道德经.md",
     "哲学/哲学名词解释.md",
