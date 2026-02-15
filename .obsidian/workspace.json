@@ -14,14 +14,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
-                "page": 271,
-                "left": -13,
-                "top": 468,
-                "zoom": 1.199663728961453
+                "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "南怀瑾 老子他说 上"
+              "title": "南怀瑾 老子他说 下"
             }
           }
         ]
@@ -102,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -206,11 +205,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "f02b261cd9f63726",
   "lastOpenFiles": [
     "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
-    "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
     "哲学/中国/道/老子他说/老子他说笔记.md",
+    "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
     "哲学/中国/道/道德经/道德经.md",
     "哲学/哲学名词解释.md",
     "哲学/中国/道/老子他说/draw.md",
@@ -252,7 +251,6 @@
     "哲学/中国/中国哲学简史/冯友兰 中国哲学简史.pdf",
     "Pasted image 20260120211359.png",
     "styles.css",
-    "manifest.json",
     "历史/中国历代政治得失/图片/Pasted image 20251020221205.png",
     "未命名.canvas"
   ]
