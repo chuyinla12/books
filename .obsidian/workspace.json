@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
-                "page": 36,
-                "left": -17,
-                "top": 595,
-                "zoom": 0.9485294117647061
+                "page": 44,
+                "left": -20,
+                "top": 246,
+                "zoom": 0.8051470588235294
               },
               "icon": "lucide-file-text",
               "title": "南怀瑾 老子他说 下"
@@ -51,14 +51,10 @@
             "id": "f02b261cd9f63726",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哲学/中国/道/老子他说/老子他说笔记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "老子他说笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -118,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -223,16 +218,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f02b261cd9f63726",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
+    "哲学/中国/道/老子他说/draw.md",
+    "哲学/中国/道/老子他说/老子他说笔记——下经.md",
+    "哲学/中国/道/老子他说/老子他说笔记——上经.md",
     "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
-    "哲学/中国/道/老子他说/老子他说笔记.md",
     "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
     "README.md",
-    "哲学/中国/道/老子他说/未命名.md",
     "哲学/中国/道/道德经/道德经.md",
     "哲学/哲学名词解释.md",
-    "哲学/中国/道/老子他说/draw.md",
     "哲学/中国/道/道德经/图片/道德经 5.png",
     "Pasted image 20260211233531.png",
     "哲学/中国/道/道德经/图片/道德经 4.png",
