@@ -6,7 +6,7 @@
       {
         "id": "26d78c7d8c8591e4",
         "type": "tabs",
-        "dimension": 58.58156028368794,
+        "dimension": 59.13461538461539,
         "children": [
           {
             "id": "7d260d0207500eb5",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
-                "page": 44,
-                "left": -20,
-                "top": 246,
-                "zoom": 0.8051470588235294
+                "page": 84,
+                "left": -16,
+                "top": 447,
+                "zoom": 0.9583333333333333
               },
               "icon": "lucide-file-text",
               "title": "南怀瑾 老子他说 下"
@@ -43,18 +43,22 @@
         ]
       },
       {
-        "id": "3d1df8a59e88d6d1",
+        "id": "dd017083b1780ea2",
         "type": "tabs",
-        "dimension": 41.41843971631206,
+        "dimension": 40.86538461538461,
         "children": [
           {
-            "id": "f02b261cd9f63726",
+            "id": "db2d7bd9befb56ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "哲学/中国/道/老子他说/老子他说笔记——下经.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "老子他说笔记——下经"
             }
           }
         ]
@@ -114,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -218,12 +223,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "db2d7bd9befb56ae",
   "lastOpenFiles": [
-    "哲学/中国/道/老子他说/draw.md",
+    "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
     "哲学/中国/道/老子他说/老子他说笔记——下经.md",
     "哲学/中国/道/老子他说/老子他说笔记——上经.md",
-    "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
+    "哲学/中国/道/老子他说/draw.md",
     "哲学/中国/道/老子他说/南怀瑾 老子他说 上.pdf",
     "README.md",
     "哲学/中国/道/道德经/道德经.md",
