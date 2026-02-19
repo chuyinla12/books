@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
-                "page": 132,
+                "page": 141,
                 "left": -16,
-                "top": 753,
+                "top": 321,
                 "zoom": 0.9583333333333333
               },
               "icon": "lucide-file-text",
@@ -221,7 +221,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "db2d7bd9befb56ae",
   "lastOpenFiles": [
     "哲学/中国/道/老子他说/南怀瑾 老子他说 下.pdf",
     "哲学/中国/道/老子他说/老子他说笔记——下经.md",
