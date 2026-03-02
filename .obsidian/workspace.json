@@ -4,8 +4,32 @@
     "type": "split",
     "children": [
       {
+        "id": "3ef18a159530cb01",
+        "type": "tabs",
+        "dimension": 50.06009615384615,
+        "children": [
+          {
+            "id": "2e0338a8ee389fc6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+                "page": 298,
+                "left": -19,
+                "top": 736,
+                "zoom": 0.8014705882352942
+              },
+              "icon": "lucide-file-text",
+              "title": "张松辉 帛书道德经"
+            }
+          }
+        ]
+      },
+      {
         "id": "c4c4d47760d6825b",
         "type": "tabs",
+        "dimension": 49.93990384615385,
         "children": [
           {
             "id": "6c736965e7c5fb73",
@@ -13,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/新中国/文革/北大马会文革史/北大马会文革史笔记.md",
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "北大马会文革史笔记"
+              "title": "帛书道德经笔记"
             }
           }
         ]
@@ -78,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -142,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/中国/道/老子他说/老子他说笔记——下经.md",
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "老子他说笔记——下经 的大纲"
+              "title": "帛书道德经笔记 的大纲"
             }
           },
           {
@@ -178,14 +203,15 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c736965e7c5fb73",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
-    "历史/新中国/文革/北大马会文革史/笔记/文革时间线笔记.md",
+    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "历史/新中国/文革/北大马会文革史/北大马会文革史笔记.md",
+    "历史/新中国/文革/北大马会文革史/笔记/文革时间线笔记.md",
     "历史/大事年表/文革大事年表.md",
     "历史/新中国/文革/北大马会文革史/笔记/时间线梳理.md",
     "文学/中国文学史/袁行霈 中国文学史 第一卷.pdf",
@@ -194,9 +220,7 @@
     "文学/5 文学理论/勒内·韦勒克 奥斯汀·沃伦 文学理论.pdf",
     "文学/史铁生",
     "文学/3 古代汉语/王力 古代汉语.pdf",
-    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
     "文学/2.5 中国现代文学三十年/钱理群 温儒敏, 吴福辉 中国现代文学三十年.pdf",
-    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "哲学/中国/道/道德经/道德经.md",
     "哲学/中国/道/道德经/老子他说/老子他说笔记——上经.md",
     "哲学/西方哲学顺序.md",
@@ -226,7 +250,6 @@
     "历史/新中国/新时代/白纸革命.md",
     "历史/清/辛酉政变.md",
     "历史/清/清朝年表.md",
-    "历史/新中国/改革开放/天安门.md",
     "历史/新中国/文革/北大马会文革史/笔记/文革时间线笔记.png",
     "Pasted image 20260120211359.png",
     "历史/中国历代政治得失/图片/Pasted image 20251020221205.png",
