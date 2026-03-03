@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-                "page": 311,
-                "left": -20,
-                "top": 6,
-                "zoom": 0.801470588235294
+                "page": 325,
+                "left": -19,
+                "top": 676,
+                "zoom": 0.8014705882352942
               },
               "icon": "lucide-file-text",
               "title": "张松辉 帛书道德经"
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "6c736965e7c5fb73",
   "lastOpenFiles": [
     "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
     "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
