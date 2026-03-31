@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "375a43b199c6c07d",
+        "id": "bdfa1b804f066b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "f722de87ba54230c",
+            "id": "2bc9483953fb8c99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-                "page": 352,
-                "left": -22,
-                "top": 658,
-                "zoom": 0.6776960784313726
+                "aFile": "历史/通史/通史/笔记/汉时间线.md",
+                "bFile": "历史/通史/通史/笔记/汉时间线.md",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "张松辉 帛书道德经"
-            }
-          }
-        ]
-      },
-      {
-        "id": "22bef228a0f47239",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b23a75cbfb3e5148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "帛书道德经笔记"
+              "icon": "diff",
+              "title": "Diff: 汉时间线  (Working Tree)"
             }
           }
         ]
@@ -203,18 +181,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b23a75cbfb3e5148",
+  "active": "2bc9483953fb8c99",
   "lastOpenFiles": [
-    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
     "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "历史/通史/国史概要/樊树志 国史概要.pdf",
     "历史/通史/国史概要/国史概要笔记.md",
-    "历史/通史/中国历史全时段阅读指南.md",
-    "未命名 1.md",
+    "历史/通史/通史/笔记/汉时间线.md",
     "历史/通史/中国历代政治得失/中国历代政治得失.md",
     "历史/通史/通史/汉.md",
+    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+    "历史/通史/中国历史全时段阅读指南.md",
+    "未命名 1.md",
     "历史/通史/通史/周.md",
-    "历史/通史/通史/笔记/汉时间线.md",
     "历史/通史/通史/笔记/秦时间线.md",
     "历史/通史/通史/笔记/未命名",
     "历史/通史/通史/中国史前史.md",
