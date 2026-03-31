@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "bdfa1b804f066b3b",
+        "id": "f02eb8543c8f1fe1",
         "type": "tabs",
+        "dimension": 56.49038461538461,
         "children": [
           {
-            "id": "2bc9483953fb8c99",
+            "id": "11d93c2633061017",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": "历史/通史/通史/笔记/汉时间线.md",
-                "bFile": "历史/通史/通史/笔记/汉时间线.md",
-                "aRef": ""
+                "file": "历史/通史/国史概要/樊树志 国史概要.pdf",
+                "page": 155,
+                "left": -20,
+                "top": 110,
+                "zoom": 0.741421568627451
               },
-              "icon": "diff",
-              "title": "Diff: 汉时间线  (Working Tree)"
+              "icon": "lucide-file-text",
+              "title": "樊树志 国史概要"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cca0bb52bca8def7",
+        "type": "tabs",
+        "dimension": 43.50961538461539,
+        "children": [
+          {
+            "id": "b69d5b870635fd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/通史/国史概要/国史概要笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "国史概要笔记"
             }
           }
         ]
@@ -78,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -181,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bc9483953fb8c99",
+  "active": "11d93c2633061017",
   "lastOpenFiles": [
-    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
-    "历史/通史/国史概要/樊树志 国史概要.pdf",
     "历史/通史/国史概要/国史概要笔记.md",
+    "历史/通史/国史概要/樊树志 国史概要.pdf",
+    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "历史/通史/通史/笔记/汉时间线.md",
     "历史/通史/中国历代政治得失/中国历代政治得失.md",
     "历史/通史/通史/汉.md",
