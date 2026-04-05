@@ -4,47 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "31c6d8adefc24c38",
+        "id": "d2d4a2c9f14d3946",
         "type": "tabs",
+        "dimension": 69.11057692307693,
         "children": [
           {
-            "id": "31c6635a20ed9065",
+            "id": "444b1599fe940de7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-                "page": 381,
-                "left": -22,
-                "top": 291,
-                "zoom": 0.6776960784313726
+                "file": "历史/通史/国史概要/樊树志 国史概要.pdf",
+                "page": 259,
+                "left": -4,
+                "top": 617,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
-              "title": "张松辉 帛书道德经"
+              "title": "樊树志 国史概要"
             }
           }
         ]
       },
       {
-        "id": "cca0bb52bca8def7",
+        "id": "928492dcba4b1715",
         "type": "tabs",
+        "dimension": 30.889423076923077,
         "children": [
           {
-            "id": "b69d5b870635fd98",
+            "id": "64de61c1604faec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
+                "file": "历史/通史/国史概要/国史概要笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "帛书道德经笔记"
+              "title": "国史概要笔记"
             }
           },
           {
-            "id": "33b6a9025802fc90",
+            "id": "22a1739e2f381ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -178,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/通史/国史概要/国史概要笔记.md",
+                "file": "历史/通史/国史概要/樊树志 国史概要.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "国史概要笔记 的大纲"
+              "title": "樊树志 国史概要 的大纲"
             }
           },
           {
@@ -217,13 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69d5b870635fd98",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
-    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "历史/通史/国史概要/国史概要笔记.md",
     "历史/通史/国史概要/樊树志 国史概要.pdf",
     "历史/大事年表/中国古代史.md",
+    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
+    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
     "历史/通史/通史/笔记/汉时间线.md",
     "历史/通史/中国历代政治得失/中国历代政治得失.md",
     "历史/通史/通史/汉.md",
