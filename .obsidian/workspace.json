@@ -6,7 +6,7 @@
       {
         "id": "d2d4a2c9f14d3946",
         "type": "tabs",
-        "dimension": 69.11057692307693,
+        "dimension": 69.11057692307692,
         "children": [
           {
             "id": "444b1599fe940de7",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "历史/通史/国史概要/樊树志 国史概要.pdf",
-                "page": 259,
-                "left": -4,
-                "top": 617,
-                "zoom": 1.5
+                "page": 281,
+                "left": -14,
+                "top": 83,
+                "zoom": 1.1311274509803921
               },
               "icon": "lucide-file-text",
               "title": "樊树志 国史概要"
@@ -29,7 +29,7 @@
       {
         "id": "928492dcba4b1715",
         "type": "tabs",
-        "dimension": 30.889423076923077,
+        "dimension": 30.889423076923073,
         "children": [
           {
             "id": "64de61c1604faec9",
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/通史/国史概要/樊树志 国史概要.pdf",
+                "file": "历史/通史/国史概要/国史概要笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "樊树志 国史概要 的大纲"
+              "title": "国史概要笔记 的大纲"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
-    "历史/通史/国史概要/国史概要笔记.md",
     "历史/通史/国史概要/樊树志 国史概要.pdf",
+    "历史/通史/国史概要/国史概要笔记.md",
     "历史/大事年表/中国古代史.md",
     "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
