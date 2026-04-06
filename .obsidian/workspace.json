@@ -6,7 +6,7 @@
       {
         "id": "d2d4a2c9f14d3946",
         "type": "tabs",
-        "dimension": 69.11057692307692,
+        "dimension": 69.11057692307693,
         "children": [
           {
             "id": "444b1599fe940de7",
@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "历史/通史/国史概要/樊树志 国史概要.pdf",
-                "page": 281,
+                "page": 519,
                 "left": -14,
-                "top": 83,
+                "top": 58,
                 "zoom": 1.1311274509803921
               },
               "icon": "lucide-file-text",
@@ -29,7 +29,7 @@
       {
         "id": "928492dcba4b1715",
         "type": "tabs",
-        "dimension": 30.889423076923073,
+        "dimension": 30.889423076923077,
         "children": [
           {
             "id": "64de61c1604faec9",
@@ -59,7 +59,8 @@
               "title": "中国古代史"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b3cd3e0a2cbca16",
+  "active": "22a1739e2f381ede",
   "lastOpenFiles": [
     "历史/通史/国史概要/樊树志 国史概要.pdf",
     "历史/通史/国史概要/国史概要笔记.md",
