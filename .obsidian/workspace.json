@@ -4,17 +4,45 @@
     "type": "split",
     "children": [
       {
+        "id": "ea97e416d175b93d",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "b79937d2ca2a3488",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+                "page": 45,
+                "left": -20,
+                "top": 29,
+                "zoom": 0.8002450980392157
+              },
+              "icon": "lucide-file-text",
+              "title": "张松辉 帛书道德经"
+            }
+          }
+        ]
+      },
+      {
         "id": "761d62d583308927",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "a83496a8f8565fad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "帛书德经笔记"
             }
           }
         ]
@@ -74,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -138,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "帛书德经笔记 的大纲"
             }
           },
           {
@@ -178,8 +208,9 @@
   },
   "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
-    "哲学/中国/道/道德经/帛书道德经/帛书道德经笔记.md",
     "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+    "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+    "哲学/中国/道/道德经/帛书道德经/帛书道经笔记.md",
     "哲学/中国/儒/易经/时空能量/时空能量.md",
     "哲学/中国/儒/易经/时空能量/时空能量.pdf",
     "哲学/中国/儒/易经/易学易经教材六种.pdf (易学易经教材六种.pdf) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
@@ -212,7 +243,6 @@
     "历史/考试制度/考试制度.md",
     "历史/清/清朝年表.md",
     "文学/现代文学/沧浪之水/沧浪之水笔记.md",
-    "社科/政治/政治经济阅读清单2.md",
     "哲学/中国/南怀瑾/Pasted image 20260126234813.png",
     "哲学/中国/道/道德经/图片/道德经 5.png",
     "Pasted image 20260211233531.png",
