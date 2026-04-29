@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/西游记/西游记原著/西游记.pdf",
-                "page": 45,
-                "left": -4,
-                "top": 334,
-                "zoom": 1.2083333333333335
+                "page": 46,
+                "left": -13,
+                "top": 660,
+                "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
               "title": "西游记"
@@ -31,16 +31,17 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
-                "page": 31,
-                "left": -13,
-                "top": 818,
-                "zoom": 1.1262729124236253
+                "page": 32,
+                "left": -16,
+                "top": 1059,
+                "zoom": 0.9470468431771895
               },
               "icon": "lucide-file-text",
               "title": "李安纲批评西游记 上"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3376a1e47ec4bd8",
@@ -118,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -218,16 +220,17 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "side-note:Side Note: Open in Sidebar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abd8c78df34451ab",
+  "active": "5c65f2bde560f27e",
   "lastOpenFiles": [
-    "Pasted image 20260422142820.png",
+    "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
     "哲学/中国/道/西游记/笔记/第一回 灵根育孕源流出 心性修持大道生.md",
     "哲学/中国/道/西游记/西游记原著/西游记.pdf",
-    "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
+    "乾.md",
+    "复.md",
+    "Pasted image 20260422142820.png",
     "哲学/中国/儒/易经/笔记/九宫八卦.md",
     "哲学/中国/儒/易经/笔记/兑.md",
     "哲学/中国/儒/易经/笔记/坎.md",
@@ -266,8 +269,6 @@
     "历史/通史/通史/中国史前史.md",
     "历史/通史/通史/笔记/汉时间线.md",
     "历史/通史/通史/汉.md",
-    "历史/通史/通史/笔记/周时间线.md",
-    "历史/大事年表/中国古代史.md",
     "哲学/中国/南怀瑾/Pasted image 20260126234813.png",
     "未命名.canvas"
   ]
