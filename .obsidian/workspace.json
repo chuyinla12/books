@@ -4,74 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "7e8e606e4a8b1fb1",
+        "id": "f2bfd6c9de24af6e",
         "type": "tabs",
         "children": [
           {
-            "id": "322cfa3832a97e1d",
+            "id": "609fc302dd92c4ba",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "哲学/中国/道/西游记/西游记原著/西游记.pdf",
-                "page": 54,
-                "left": -16,
-                "top": 80,
-                "zoom": 0.9558823529411764
+                "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+                "page": 90,
+                "left": -20,
+                "top": 102,
+                "zoom": 0.8002450980392157
               },
               "icon": "lucide-file-text",
-              "title": "西游记"
-            }
-          },
-          {
-            "id": "c84a81056597fe7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
-                "page": 42,
-                "left": -28,
-                "top": 5,
-                "zoom": 0.5631364562118126
-              },
-              "icon": "lucide-file-text",
-              "title": "李安纲批评西游记 上"
+              "title": "张松辉 帛书道德经"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b554c43aa58c48a0",
         "type": "tabs",
         "children": [
           {
-            "id": "20d41cc1a216fb7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哲学/中国/道/西游记/笔记/第一回 灵根育孕源流出 心性修持大道生.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第一回 灵根育孕源流出 心性修持大道生"
-            }
-          },
-          {
             "id": "766f8a855a95acdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "哲学/中国/道/西游记/待学.md",
-                "mode": "source",
-                "source": false
+                "aFile": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+                "bFile": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "待学"
+              "icon": "diff",
+              "title": "Diff: 帛书德经笔记  (Working Tree)"
             }
           }
         ]
@@ -131,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -234,18 +204,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abd8c78df34451ab",
+  "active": "766f8a855a95acdc",
   "lastOpenFiles": [
+    "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+    "哲学/中国/道/西游记/待学.md",
     "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
-    "哲学/中国/道/西游记/笔记/第一回 灵根育孕源流出 心性修持大道生.md",
     "哲学/中国/道/西游记/西游记原著/西游记.pdf",
+    "哲学/中国/道/西游记/笔记/第一回 灵根育孕源流出 心性修持大道生.md",
     "哲学/中国/儒/易经/笔记/姤.md",
     "哲学/中国/儒/易经/笔记/剥.md",
-    "哲学/中国/道/西游记/待学.md",
     "哲学/中国/儒/易经/笔记/泰.md",
     "哲学/中国/道/西游记/西游记.md",
-    "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-    "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
     "哲学/中国/道/道德经/帛书道德经/帛书道经笔记.md",
     "哲学/中国/儒/易经/笔记/乾.md",
     "哲学/中国/儒/易经/笔记/复.md",
