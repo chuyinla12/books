@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f2bfd6c9de24af6e",
+        "id": "7267b3704c198250",
         "type": "tabs",
         "children": [
           {
-            "id": "609fc302dd92c4ba",
+            "id": "322a94f80667fd19",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-                "page": 90,
+                "page": 112,
                 "left": -20,
-                "top": 102,
+                "top": 445,
                 "zoom": 0.8002450980392157
               },
               "icon": "lucide-file-text",
@@ -26,21 +26,21 @@
         ]
       },
       {
-        "id": "b554c43aa58c48a0",
+        "id": "a7c5a2adae0366dc",
         "type": "tabs",
         "children": [
           {
-            "id": "766f8a855a95acdc",
+            "id": "332345f8dea90458",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
-                "bFile": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
-                "aRef": ""
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 帛书德经笔记  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "帛书德经笔记"
             }
           }
         ]
@@ -204,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "766f8a855a95acdc",
+  "active": "332345f8dea90458",
   "lastOpenFiles": [
-    "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
     "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
+    "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
+    "哲学/中国/道/道德经/帛书道德经/帛书道经笔记.md",
     "哲学/中国/道/西游记/待学.md",
     "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
     "哲学/中国/道/西游记/西游记原著/西游记.pdf",
@@ -216,7 +217,6 @@
     "哲学/中国/儒/易经/笔记/剥.md",
     "哲学/中国/儒/易经/笔记/泰.md",
     "哲学/中国/道/西游记/西游记.md",
-    "哲学/中国/道/道德经/帛书道德经/帛书道经笔记.md",
     "哲学/中国/儒/易经/笔记/乾.md",
     "哲学/中国/儒/易经/笔记/复.md",
     "Pasted image 20260422142820.png",
