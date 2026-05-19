@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-                "page": 112,
+                "page": 154,
                 "left": -20,
-                "top": 445,
-                "zoom": 0.8002450980392157
+                "top": 2,
+                "zoom": 0.8002450980392156
               },
               "icon": "lucide-file-text",
               "title": "张松辉 帛书道德经"
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/中国/道/西游记/笔记/第一回 灵根育孕源流出 心性修持大道生.md",
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第一回 灵根育孕源流出 心性修持大道生 的大纲"
+              "title": "帛书德经笔记 的大纲"
             }
           },
           {
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "332345f8dea90458",
+  "active": "5b3cd3e0a2cbca16",
   "lastOpenFiles": [
     "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
     "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
