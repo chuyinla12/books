@@ -6,6 +6,7 @@
       {
         "id": "7267b3704c198250",
         "type": "tabs",
+        "dimension": 57.692307692307686,
         "children": [
           {
             "id": "322a94f80667fd19",
@@ -14,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/道德经/帛书道德经/张松辉 帛书道德经.pdf",
-                "page": 154,
-                "left": -20,
-                "top": 2,
-                "zoom": 0.8002450980392156
+                "page": 242,
+                "left": -16,
+                "top": 16,
+                "zoom": 0.9338235294117647
               },
               "icon": "lucide-file-text",
               "title": "张松辉 帛书道德经"
@@ -28,6 +29,7 @@
       {
         "id": "a7c5a2adae0366dc",
         "type": "tabs",
+        "dimension": 42.30769230769231,
         "children": [
           {
             "id": "332345f8dea90458",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/新中国/文革/北大马会文革史/北大马会文革史.md",
+                "file": "哲学/中国/道/道德经/帛书道德经/帛书德经笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "北大马会文革史 的反向链接列表"
+              "title": "帛书德经笔记 的反向链接列表"
             }
           },
           {
