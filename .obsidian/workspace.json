@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/西游记/西游记原著/西游记.pdf",
-                "page": 66,
-                "left": -4,
-                "top": 668,
+                "page": 68,
+                "left": -59,
+                "top": 655,
                 "zoom": 1.0245098039215688
               },
               "icon": "lucide-file-text",
@@ -31,16 +31,17 @@
               "type": "pdf",
               "state": {
                 "file": "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
-                "page": 58,
-                "left": -15,
-                "top": 1049,
-                "zoom": 0.9755600814663952
+                "page": 62,
+                "left": -22,
+                "top": 281,
+                "zoom": 0.6955193482688392
               },
               "icon": "lucide-file-text",
               "title": "李安纲批评西游记 上"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3082938e7592af8e",
@@ -133,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c190cfabe188f45",
@@ -237,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28ae21fa95817e54",
+  "active": "3f22281ff456dbd4",
   "lastOpenFiles": [
+    "哲学/中国/儒/易经/笔记/复.md",
     "哲学/中国/道/西游记/笔记/第二回 悟彻菩提真妙理断魔归本合元神.md",
     "哲学/中国/道/西游记/待学.md",
     "哲学/中国/道/西游记/李安纲批判西游记/李安纲批评西游记 上.pdf",
@@ -253,7 +254,6 @@
     "哲学/中国/儒/易经/笔记/剥.md",
     "哲学/中国/儒/易经/笔记/泰.md",
     "哲学/中国/儒/易经/笔记/乾.md",
-    "哲学/中国/儒/易经/笔记/复.md",
     "Pasted image 20260422142820.png",
     "哲学/中国/儒/易经/笔记/九宫八卦.md",
     "哲学/中国/儒/易经/笔记/兑.md",
